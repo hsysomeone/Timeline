@@ -232,7 +232,12 @@ GAM: Y = \sum_{i=1}^p g_i (x_i) +e
 -	Bring in at least one Q with substance 
 
 
+### 8/29/2023
 
+- SGD reference
+- start to write
+- identifiability
+- optimization
 
 
 
