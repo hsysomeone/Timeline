@@ -13,7 +13,7 @@
 - [6/8/2021](#6/8/2021)
 - [9/15/2021](#9/15/2021)
 - [6/9/23](#6/9/23)
-
+- [10/4/23](#10/4/23)
 
 ---
 ### 10/22/2020
@@ -240,7 +240,23 @@ GAM: Y = \sum_{i=1}^p g_i (x_i) +e
 - optimization
 
 
+### 10/4/23
 
+- PEM: complete simulation, do an application (keep in mind of suitable data)
+
+- ExpM:
+
+1. Property A (Coverage and Length of Conformal Prediction Interval)
+
+Property B (Convergence of MM algorithm, characterizing the objective functions, do we need penalty terms, ….)
+
+2. Performance
+
+C. Convergence of Joint Estimates?
+
+D. Correct identification of features?
+
+E. Modeling evaluated by prediction power/stability – repeated CV; CPI ; comparison with simple linear model and DL model?
 
 
 
