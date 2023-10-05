@@ -253,6 +253,7 @@ Property B (Convergence of MM algorithm, characterizing the objective functions,
 2. Performance
 
 C. Convergence of Joint Estimates?
+     simulation+proof
 
 D. Correct identification of features?
 
